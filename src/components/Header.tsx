@@ -46,7 +46,7 @@ export const Header = ({ showSearch = true, showFilters = true }) => {
           </Link>
         </Tooltip>
         <Tooltip label="GitHub">
-          <Link href="https://github.com/FrederikBolding/chainlist" isExternal>
+          <Link href="https://github.com/Mulc1b3R/evm-chains/" isExternal>
             <IconButton
               size="lg"
               aria-label="GitHub"
