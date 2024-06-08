@@ -1,7 +1,9 @@
-FrederikBolding # EVM Chainlist
+# EVM Chainlist
 Add EVM-based chains to your wallet @ the click of a button , an alternative to chainlink.
 Sister repo to : 
-
+*************************************************************************************************************
+![Alt Text](evm-chains.png)
+*************************************************************************************************************
 
 ## Getting Started
 
