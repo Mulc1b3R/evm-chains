@@ -33,7 +33,7 @@ export const Header = ({ showSearch = true, showFilters = true }) => {
       width="100%"
       zIndex="sticky"
     >
-      <Heading>Chainlist</Heading>
+      <Heading>EVM Chains</Heading>
       {showSearch && <Search />}
       <Flex>
         {showFilters && <Filters />}
