@@ -1,6 +1,7 @@
 # EVM Chainlist
-Add EVM-based chains to your wallet @ the click of a button , an alternative to chainlink.
-Sister repo to : 
+* Add EVM-based chains to your wallet @ the click of a button , an alternative to chainlink.
+* Sister repo to : Blockchain-toolkit @ https://github.com/Mulc1b3R/blockchain-toolkit
+* eth-tokens folder contains 1249 top etherium tokens with logo's and hypertext links to it's corresponding smart contract.
 *************************************************************************************************************
 ![Alt Text](evm-chains.png)
 *************************************************************************************************************
