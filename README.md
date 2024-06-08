@@ -1,4 +1,4 @@
-# EVM Chainlist
+FrederikBolding # EVM Chainlist
 Add EVM-based chains to your wallet @ the click of a button , an alternative to chainlink.
 Sister repo to : 
 
@@ -17,7 +17,7 @@ To build a static version of the site for production, run the following command
 ```yarn run build```
 
 ## Contributions
-!
+FrederikBolding , Mulciber , Chainlist .
 
 ## License
 This project is [MIT licensed](./LICENSE).
